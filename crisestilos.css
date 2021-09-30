@@ -1,0 +1,45 @@
+
+body{
+	font-size: 20px ;
+	background-image: url("tapiz1.jpg");
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+ul{
+	color: blue;
+}
+li{
+	font-size: 30px;	
+	color: blue;
+}
+
+.parrafo{
+	background-color: skyblue;
+	color: black;
+}
+
+header{
+	background-color: #0073e6;
+	border: 5px outset  #ffff1a;
+}
+
+h1{
+	text-align: center;
+	font-family: times new roman;
+}
+
+a:link{
+	color: blue ;
+}
+a:visited{
+	background-color:  #e6f2ff;
+	color: purple ;
+
+}
+a:hover{
+	background-color:  #00D0FF;
+
+}
+a:active{
+	color: indianred;
+}
